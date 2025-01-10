@@ -146,3 +146,46 @@ nav li a {
   border-radius: 5px;
   box-shadow: 0px 6px 50px 0 rgba(0, 0, 0, 0.06);
 }
+
+/* resume section styles */
+.resume-container{
+  display: flex;
+  gap: 24px;
+}
+
+.resume-column-title{
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.experience-title{
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.experience-subtitle{
+   font-size: 20px;
+   font-weight: 600;
+   margin-bottom: 20px;
+}
+.experience-description, .experience-subtitle{
+  color: #757575;
+}
+
+.experience-description{
+  margin-top: 20px;
+}
+
+.resume-download-cv{
+  margin-top: 50px;
+}
+
+
+
+
+
+
+
+hr{
+  margin: 30px 5px;
+}
